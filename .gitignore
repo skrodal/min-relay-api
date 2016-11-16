@@ -1,0 +1,4 @@
+*.idea*
+org.class.php
+.htaccess
+etc/.api_config.js
